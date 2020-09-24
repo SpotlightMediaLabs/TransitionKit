@@ -21,9 +21,9 @@
 #ifndef TransitionKit_TransitionKit_h
 #define TransitionKit_TransitionKit_h
 
-#import "TKStateMachine.h"
-#import "TKEvent.h"
-#import "TKState.h"
-#import "TKTransition.h"
+#import <TransitionKit/TKStateMachine.h>
+#import <TransitionKit/TKEvent.h>
+#import <TransitionKit/TKState.h>
+#import <TransitionKit/TKTransition.h>
 
 #endif
